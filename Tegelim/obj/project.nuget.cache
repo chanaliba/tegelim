@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mNU45LKdg5OBY/m32+4GB6pajcS6Ohpvmosr+v9H+6w9Wrb+H+YIi96Jb/ZJhDtDFea6bR2QcnG4wIcCS6ylAw==",
+  "success": true,
+  "projectFilePath": "D:\\компьютерка С_С++_С#\\Tegelim\\Tegelim\\Tegelim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
